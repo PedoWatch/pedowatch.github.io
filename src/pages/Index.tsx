@@ -18,8 +18,8 @@ const Index = () => {
         <IntegrationsSection />
         <ThreatLevelsSection />
         <GitRepoSection />
-        <SubscriptionPlansSection />
         <DashboardSection />
+        <SubscriptionPlansSection />
         <ClosingSection />
       </main>
       <Footer />
